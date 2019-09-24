@@ -1,29 +1,12 @@
-# vue-pwa
+<p align="center"><img src="https://rawcdn.githack.com/ianmustafa/vue-pwa-notification/master/src/assets/logo.png" width="200"></p>
 
-## Project setup
-```
-npm install
-```
+## About Vue PWA Notification
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Vue PWA Notification is a simple app with push notification, built with Vue.js and Firebase Cloud Messaging. This is a result of me learning about push notification using Push API and its implementation in Vue.js, with help of [this article by Niishi Kubo](https://medium.com/@n11sh1/how-to-build-pwa-w-vue-cli-3-service-workers-add-to-home-screen-push-notifications-b519c49e142d).
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## [Demo](https://vue-pwa-ian.firebaseapp.com/)
 
-### Run your tests
-```
-npm run test
-```
+## License
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[MIT](https://github.com/ianmustafa/vue-pwa-notification/blob/master/LICENSE).
+# Vue PWA Notification
